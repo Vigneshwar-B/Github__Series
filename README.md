@@ -26,10 +26,7 @@ Some of the topics that this series will cover include:
 6. Day 6: Filtering and Selecting Data
 7. Day 7: Aggregations and GroupBy
 8. Day 8: Joins in PySpark
-9. Day 9: Working with Date and Time
-10. Day 10: Window Functions  
-   
-*(And more topics as the series progresses)*
+
 
 ## 🚀 Getting Started
 
